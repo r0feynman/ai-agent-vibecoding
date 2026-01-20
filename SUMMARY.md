@@ -63,7 +63,7 @@
   * [Clip 1: 계산기와 random MCP server 만들기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/Clip1_계산기와_random_MCP_server_만들기.md)
   * [Clip 2: Claude code 에 연결하고 랜덤 값 변경해보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/Clip2_Claude_Code에_연결하고_동작_확인하기.md)
 * [Chapter 3. 우리 회사 DB를 쿼리하는 MCP SERVER 구현하기](part-4.-mcp-server/chapter-3.-db-mcp-server/README.md)
-  * [Clip 1: Postgresql mcp server 구현체 보기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-1-postgresql-mcp-server.md)
+  * [Clip 1: Postgresql mcp server 구현체 보기]([part-4.-mcp-server/chapter-3.-db-mcp-server/clip-1-postgresql-mcp-server.md](https://github.com/r0feynman/ai-agent-vibecoding/blob/main/Part4_%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C_MCP_server_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Chapter3_%EC%9A%B0%EB%A6%AC_%ED%9A%8C%EC%82%AC_DB%EB%A5%BC_%EC%BF%BC%EB%A6%AC%ED%95%98%EB%8A%94_MCP_SERVER_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Clip1_Postgresql_MCP_Server_%EA%B5%AC%ED%98%84%EC%B2%B4_%EB%B3%B4%EA%B8%B0.md))
   * [Clip 2: mock 스키마 만들고 데이터 합성해서 집어넣기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-2-mock.md)
   * [Clip 3: DB write tool 설계하기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-3-db-write-tool.md)
   * [Clip 4: 클로드에 연결해서 써보기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-4.md)
