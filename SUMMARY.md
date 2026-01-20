@@ -63,10 +63,10 @@
   * [Clip 1: 계산기와 random MCP server 만들기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/Clip1_계산기와_random_MCP_server_만들기.md)
   * [Clip 2: Claude code 에 연결하고 랜덤 값 변경해보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/Clip2_Claude_Code에_연결하고_동작_확인하기.md)
 * [Chapter 3. 우리 회사 DB를 쿼리하는 MCP SERVER 구현하기](part-4.-mcp-server/chapter-3.-db-mcp-server/README.md)
-  * [Clip 1: Postgresql mcp server 구현체 보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip4_클로드에_연결해서_써보기.md)
-  * [Clip 2: mock 스키마 만들고 데이터 합성해서 집어넣기](https://github.com/r0feynman/ai-agent-vibecoding/blob/main/Part4_%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C_MCP_server_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Chapter3_%EC%9A%B0%EB%A6%AC_%ED%9A%8C%EC%82%AC_DB%EB%A5%BC_%EC%BF%BC%EB%A6%AC%ED%95%98%EB%8A%94_MCP_SERVER_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Clip2_Mock_%EC%8A%A4%ED%82%A4%EB%A7%88_%EB%A7%8C%EB%93%A4%EA%B3%A0_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%95%A9%EC%84%B1%ED%95%B4%EC%84%9C_%EC%A7%91%EC%96%B4%EB%84%A3%EA%B8%B0.md)
-  * [Clip 3: DB write tool 설계하기](https://github.com/r0feynman/ai-agent-vibecoding/blob/main/Part4_%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C_MCP_server_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Chapter3_%EC%9A%B0%EB%A6%AC_%ED%9A%8C%EC%82%AC_DB%EB%A5%BC_%EC%BF%BC%EB%A6%AC%ED%95%98%EB%8A%94_MCP_SERVER_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Clip3_DB_Write_Tool_%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0.md)
-  * [Clip 4: 클로드에 연결해서 써보기](https://github.com/r0feynman/ai-agent-vibecoding/blob/main/Part4_%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C_MCP_server_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Chapter3_%EC%9A%B0%EB%A6%AC_%ED%9A%8C%EC%82%AC_DB%EB%A5%BC_%EC%BF%BC%EB%A6%AC%ED%95%98%EB%8A%94_MCP_SERVER_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Clip4_%ED%81%B4%EB%A1%9C%EB%93%9C%EC%97%90_%EC%97%B0%EA%B2%B0%ED%95%B4%EC%84%9C_%EC%8D%A8%EB%B3%B4%EA%B8%B0.md)
+  * [Clip 1: Postgresql mcp server 구현체 보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip1_Postgresql_MCP_Server_구현체_보기.md)
+  * [Clip 2: mock 스키마 만들고 데이터 합성해서 집어넣기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip2_Mock_스키마_만들고_데이터_합성해서_집어넣기.md)
+  * [Clip 3: DB write tool 설계하기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip3_DB_Write_Tool_설계하기.md)
+  * [Clip 4: 클로드에 연결해서 써보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip4_클로드에_연결해서_써보기.md)
 
 ## Part 5. AI Agent 프로젝트 3개
 
