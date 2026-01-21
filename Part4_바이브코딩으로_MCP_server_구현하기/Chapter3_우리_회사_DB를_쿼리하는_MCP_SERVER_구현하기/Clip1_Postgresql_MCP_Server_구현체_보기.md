@@ -92,7 +92,7 @@ PostgreSQL Pool을 사용한 효율적인 커넥션 관리
 
 {% code fullWidth="true" %}
 ````mmd
-{% code fullWidth="true" %}
+
 ```mmd
 sequenceDiagram
     participant User as 사용자
@@ -124,7 +124,7 @@ sequenceDiagram
 
     Claude-->>User: "Python 개발자 후보자 15명을 찾았습니다:<br/>1. 김철수 - Python, Django, 5년 경력..."
 ```
-{% endcode %}
+
 ````
 {% endcode %}
 
